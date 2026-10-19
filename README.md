@@ -152,6 +152,6 @@ python spug.py deploy --id 10
 
 ## License
 
-本项目为独立工具，仅通过 HTTP API / WebSocket 与 Spug 交互，不包含 Spug 代码。使用前请遵守 Spug 的 AGPL-3.0 许可与你们的使用条款。请按需为本项目添加 LICENSE。
+本项目基于 **MIT License** 发布（见 [LICENSE](./LICENSE)）。本插件为独立工具，仅通过 HTTP API / WebSocket 与 Spug 交互，不包含 Spug 代码；使用 Spug 请遵守其 AGPL-3.0 许可与你们的使用条款。
 
-This is an independent tool that interacts with Spug via its HTTP API / WebSocket only, and contains no Spug code. Respect Spug's AGPL-3.0 license and your own usage terms. Add a LICENSE to this repo as you see fit.
+This project is released under the **MIT License** (see [LICENSE](./LICENSE)). It is an independent tool that interacts with Spug via its HTTP API / WebSocket only and contains no Spug code. Please respect Spug's AGPL-3.0 license and your own usage terms when using Spug.
