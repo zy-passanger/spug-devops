@@ -1,0 +1,7 @@
+{
+  "name": "spug-ops",
+  "version": "0.3.0",
+  "description": "Spug 运维平台助手：通过 Spug API 与 WebSocket 协议驱动主机批量命令执行、交互式 SSH、文件上传下载、部署状态查询，内置凭据自动续期与跨机器安全确认机制",
+  "author": { "name": "spug-ops" },
+  "skills": "./skills"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "spug-ops-market",
+  "plugins": [
+    {
+      "name": "spug-ops",
+      "source": "./spug-ops",
+      "version": "0.3.0",
+      "description": "Spug ops assistant: drive host batch command execution, interactive SSH, file upload/download and deploy status queries through the Spug HTTP API and WebSocket protocol.",
+      "displayName": "Spug Ops",
+      "displayName_i18n": {
+        "zh-CN": "Spug 运维助手"
+      },
+      "description_i18n": {
+        "zh-CN": "通过 Spug API 与 WebSocket 协议驱动主机批量执行、交互式 SSH、文件上传下载、部署状态查询，内置账号自动续期与目标主机安全确认机制"
+      },
+      "category": "developer-tools"
+    }
+  ]
+}

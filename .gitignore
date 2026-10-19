@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 本地配置（含凭据，绝不提交）
+config.json
+~/.spug-ops/
+
+# 日志
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
